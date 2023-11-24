@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://omkarchoudhary001.github.io/Weather-Forecast-Application/):point_left:
+[Live Demo Link](https://rishita777.github.io/weatherForcastWebsite/):point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
